@@ -1,0 +1,279 @@
+19-Nov-2024 13:52:40.858 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/9.0.97
+19-Nov-2024 13:52:40.880 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Nov 6 2024 19:55:19 UTC
+19-Nov-2024 13:52:40.880 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  9.0.97.0
+19-Nov-2024 13:52:40.880 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+19-Nov-2024 13:52:40.880 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+19-Nov-2024 13:52:40.880 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+19-Nov-2024 13:52:40.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Алина\.jdks\corretto-1.8.0_402\jre
+19-Nov-2024 13:52:40.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            1.8.0_402-b08
+19-Nov-2024 13:52:40.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Amazon.com Inc.
+19-Nov-2024 13:52:40.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Алина\Downloads\apache-tomcat-9.0.97
+19-Nov-2024 13:52:40.881 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Алина\Downloads\apache-tomcat-9.0.97
+19-Nov-2024 13:52:40.885 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:/Users/Алина/Downloads/apache-tomcat-9.0.97/conf/logging.properties
+19-Nov-2024 13:52:40.886 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Nov-2024 13:52:40.886 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-Nov-2024 13:52:40.886 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-Nov-2024 13:52:40.886 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+19-Nov-2024 13:52:40.886 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+19-Nov-2024 13:52:40.886 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:/Users/Алина/Downloads/apache-tomcat-9.0.97
+19-Nov-2024 13:52:40.886 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:/Users/Алина/Downloads/apache-tomcat-9.0.97
+19-Nov-2024 13:52:40.886 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:/Users/Алина/Downloads/apache-tomcat-9.0.97/temp
+19-Nov-2024 13:52:40.894 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\Алина\.jdks\corretto-1.8.0_402\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Алина\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Алина\bin;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\dotnet;C:\Program Files\PowerShell\7-preview\preview;C:\Program Files\PowerShell\7;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\Алина\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Users\Алина\.jdks\jdk-11.0.7\bin;C:\Program Files\Maven\apache-maven-3.9.9\bin;C:\Users\Алина\.jdks\corretto-1.8.0_402;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;.]
+19-Nov-2024 13:52:42.106 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8080"]
+19-Nov-2024 13:52:42.137 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1503] milliseconds
+19-Nov-2024 13:52:42.180 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-Nov-2024 13:52:42.180 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.97]
+19-Nov-2024 13:52:42.211 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Алина\Downloads\apache-tomcat-9.0.97\webapps\estimator.war]
+19-Nov-2024 13:52:44.704 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-Nov-2024 13:52:44.994 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [244] milliseconds.
+19-Nov-2024 13:52:45.187 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcher'
+19-Nov-2024 13:52:46.141 INFO [MLog-Init-Reporter] com.mchange.v2.log.MLog. MLog clients using java 1.4+ standard logging.
+19-Nov-2024 13:52:46.215 INFO [main] com.mchange.v2.c3p0.C3P0Registry. Initializing c3p0-0.9.5.2 [built 08-December-2015 22:06:04 -0800; debug? true; trace: 10]
+19-Nov-2024 13:52:46.429 INFO [main] org.hibernate.Version.logVersion HHH000412: Hibernate ORM core version 5.4.22.Final
+19-Nov-2024 13:52:46.793 INFO [main] org.hibernate.annotations.common.reflection.java.JavaReflectionManager.<clinit> HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+19-Nov-2024 13:52:47.004 INFO [main] com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource. Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 2xfge0b7ivrks91a8zpx|68ad99fe, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 2xfge0b7ivrks91a8zpx|68ad99fe, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/estimator?useSSL=false&serverTimezone=Europe/Moscow, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 15, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {user=******, password=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+19-Nov-2024 13:53:17.632 WARNING [C3P0PooledConnectionPoolManager[identityToken->2xfge0b7ivrks91a8zpx|68ad99fe]-HelperThread-#2] com.mchange.v2.resourcepool.BasicResourcePool. com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@17a989af -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (30). Last acquisition attempt exception: 
+	java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+		at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+		at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+		at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+		at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:175)
+		at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:220)
+		at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:206)
+		at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:203)
+		at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1138)
+		at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1125)
+		at com.mchange.v2.resourcepool.BasicResourcePool.access$700(BasicResourcePool.java:44)
+		at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1870)
+		at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:696)
+	Caused by: com.mysql.cj.exceptions.UnableToConnectException: Public Key Retrieval is not allowed
+		at sun.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+		at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+		at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+		at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+		at com.mysql.cj.protocol.a.authentication.CachingSha2PasswordPlugin.nextAuthenticationStep(CachingSha2PasswordPlugin.java:130)
+		at com.mysql.cj.protocol.a.authentication.CachingSha2PasswordPlugin.nextAuthenticationStep(CachingSha2PasswordPlugin.java:49)
+		at com.mysql.cj.protocol.a.NativeAuthenticationProvider.proceedHandshakeWithPluggableAuthentication(NativeAuthenticationProvider.java:447)
+		at com.mysql.cj.protocol.a.NativeAuthenticationProvider.connect(NativeAuthenticationProvider.java:212)
+		at com.mysql.cj.protocol.a.NativeProtocol.connect(NativeProtocol.java:1433)
+		at com.mysql.cj.NativeSession.connect(NativeSession.java:133)
+		at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:948)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:818)
+		... 12 more
+19-Nov-2024 13:53:17.632 WARNING [C3P0PooledConnectionPoolManager[identityToken->2xfge0b7ivrks91a8zpx|68ad99fe]-HelperThread-#1] com.mchange.v2.resourcepool.BasicResourcePool. com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@29a767f6 -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (30). Last acquisition attempt exception: 
+	java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+		at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+		at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+		at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+		at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:175)
+		at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:220)
+		at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:206)
+		at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:203)
+		at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1138)
+		at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1125)
+		at com.mchange.v2.resourcepool.BasicResourcePool.access$700(BasicResourcePool.java:44)
+		at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1870)
+		at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:696)
+	Caused by: com.mysql.cj.exceptions.UnableToConnectException: Public Key Retrieval is not allowed
+		at sun.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+		at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+		at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+		at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+		at com.mysql.cj.protocol.a.authentication.CachingSha2PasswordPlugin.nextAuthenticationStep(CachingSha2PasswordPlugin.java:130)
+		at com.mysql.cj.protocol.a.authentication.CachingSha2PasswordPlugin.nextAuthenticationStep(CachingSha2PasswordPlugin.java:49)
+		at com.mysql.cj.protocol.a.NativeAuthenticationProvider.proceedHandshakeWithPluggableAuthentication(NativeAuthenticationProvider.java:447)
+		at com.mysql.cj.protocol.a.NativeAuthenticationProvider.connect(NativeAuthenticationProvider.java:212)
+		at com.mysql.cj.protocol.a.NativeProtocol.connect(NativeProtocol.java:1433)
+		at com.mysql.cj.NativeSession.connect(NativeSession.java:133)
+		at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:948)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:818)
+		... 12 more
+19-Nov-2024 13:53:17.632 WARNING [C3P0PooledConnectionPoolManager[identityToken->2xfge0b7ivrks91a8zpx|68ad99fe]-HelperThread-#0] com.mchange.v2.resourcepool.BasicResourcePool. com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@33b3ca50 -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (30). Last acquisition attempt exception: 
+	java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+		at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+		at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+		at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+		at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:175)
+		at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:220)
+		at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:206)
+		at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:203)
+		at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1138)
+		at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1125)
+		at com.mchange.v2.resourcepool.BasicResourcePool.access$700(BasicResourcePool.java:44)
+		at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1870)
+		at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:696)
+	Caused by: com.mysql.cj.exceptions.UnableToConnectException: Public Key Retrieval is not allowed
+		at sun.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+		at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+		at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+		at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+		at com.mysql.cj.protocol.a.authentication.CachingSha2PasswordPlugin.nextAuthenticationStep(CachingSha2PasswordPlugin.java:130)
+		at com.mysql.cj.protocol.a.authentication.CachingSha2PasswordPlugin.nextAuthenticationStep(CachingSha2PasswordPlugin.java:49)
+		at com.mysql.cj.protocol.a.NativeAuthenticationProvider.proceedHandshakeWithPluggableAuthentication(NativeAuthenticationProvider.java:447)
+		at com.mysql.cj.protocol.a.NativeAuthenticationProvider.connect(NativeAuthenticationProvider.java:212)
+		at com.mysql.cj.protocol.a.NativeProtocol.connect(NativeProtocol.java:1433)
+		at com.mysql.cj.NativeSession.connect(NativeSession.java:133)
+		at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:948)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:818)
+		... 12 more
+19-Nov-2024 13:53:17.636 WARNING [C3P0PooledConnectionPoolManager[identityToken->2xfge0b7ivrks91a8zpx|68ad99fe]-HelperThread-#2] com.mchange.v2.resourcepool.BasicResourcePool. Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@78b236a0 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests.
+19-Nov-2024 13:53:17.638 WARNING [C3P0PooledConnectionPoolManager[identityToken->2xfge0b7ivrks91a8zpx|68ad99fe]-HelperThread-#1] com.mchange.v2.resourcepool.BasicResourcePool. Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@78b236a0 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests.
+19-Nov-2024 13:53:17.638 WARNING [C3P0PooledConnectionPoolManager[identityToken->2xfge0b7ivrks91a8zpx|68ad99fe]-HelperThread-#0] com.mchange.v2.resourcepool.BasicResourcePool. Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@78b236a0 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests.
+19-Nov-2024 13:53:17.640 WARN [main] org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService HHH000342: Could not obtain connection to query metadata : Connections could not be acquired from the underlying database!
+19-Nov-2024 13:53:17.680 INFO [main] org.hibernate.dialect.Dialect.<init> HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19-Nov-2024 13:53:18.409 INFO [main] org.hibernate.validator.internal.util.Version.<clinit> HV000001: Hibernate Validator 6.1.0.Final
+19-Nov-2024 13:53:19.508 INFO [main] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator.initiateService HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19-Nov-2024 13:53:20.165 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 34978 ms
+19-Nov-2024 13:53:20.183 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Алина\Downloads\apache-tomcat-9.0.97\webapps\estimator.war] has finished in [37 972] ms
+19-Nov-2024 13:53:20.220 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Алина\Downloads\apache-tomcat-9.0.97\webapps\docs]
+19-Nov-2024 13:53:20.407 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Алина\Downloads\apache-tomcat-9.0.97\webapps\docs] has finished in [187] ms
+19-Nov-2024 13:53:20.408 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Алина\Downloads\apache-tomcat-9.0.97\webapps\examples]
+19-Nov-2024 13:53:22.172 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Алина\Downloads\apache-tomcat-9.0.97\webapps\examples] has finished in [1 764] ms
+19-Nov-2024 13:53:22.173 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Алина\Downloads\apache-tomcat-9.0.97\webapps\host-manager]
+19-Nov-2024 13:53:22.227 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Алина\Downloads\apache-tomcat-9.0.97\webapps\host-manager] has finished in [54] ms
+19-Nov-2024 13:53:22.227 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Алина\Downloads\apache-tomcat-9.0.97\webapps\manager]
+19-Nov-2024 13:53:22.275 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Алина\Downloads\apache-tomcat-9.0.97\webapps\manager] has finished in [47] ms
+19-Nov-2024 13:53:22.275 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\Users\Алина\Downloads\apache-tomcat-9.0.97\webapps\ROOT]
+19-Nov-2024 13:53:22.302 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Алина\Downloads\apache-tomcat-9.0.97\webapps\ROOT] has finished in [26] ms
+19-Nov-2024 13:53:22.307 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+19-Nov-2024 13:53:22.324 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [40185] milliseconds
+19-Nov-2024 13:55:10.525 WARNING [C3P0PooledConnectionPoolManager[identityToken->2xfge0b7ivrks91a8zpx|68ad99fe]-HelperThread-#0] com.mchange.v2.resourcepool.BasicResourcePool. com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@59d71bf1 -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (30). Last acquisition attempt exception: 
+	java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+		at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+		at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+		at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+		at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:175)
+		at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:220)
+		at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:206)
+		at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:203)
+		at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1138)
+		at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1125)
+		at com.mchange.v2.resourcepool.BasicResourcePool.access$700(BasicResourcePool.java:44)
+		at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1870)
+		at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:696)
+	Caused by: com.mysql.cj.exceptions.UnableToConnectException: Public Key Retrieval is not allowed
+		at sun.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+		at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+		at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+		at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+		at com.mysql.cj.protocol.a.authentication.CachingSha2PasswordPlugin.nextAuthenticationStep(CachingSha2PasswordPlugin.java:130)
+		at com.mysql.cj.protocol.a.authentication.CachingSha2PasswordPlugin.nextAuthenticationStep(CachingSha2PasswordPlugin.java:49)
+		at com.mysql.cj.protocol.a.NativeAuthenticationProvider.proceedHandshakeWithPluggableAuthentication(NativeAuthenticationProvider.java:447)
+		at com.mysql.cj.protocol.a.NativeAuthenticationProvider.connect(NativeAuthenticationProvider.java:212)
+		at com.mysql.cj.protocol.a.NativeProtocol.connect(NativeProtocol.java:1433)
+		at com.mysql.cj.NativeSession.connect(NativeSession.java:133)
+		at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:948)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:818)
+		... 12 more
+19-Nov-2024 13:55:10.525 WARNING [C3P0PooledConnectionPoolManager[identityToken->2xfge0b7ivrks91a8zpx|68ad99fe]-HelperThread-#2] com.mchange.v2.resourcepool.BasicResourcePool. com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@2ea9004a -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (30). Last acquisition attempt exception: 
+	java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+		at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+		at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+		at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+		at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:175)
+		at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:220)
+		at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:206)
+		at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:203)
+		at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1138)
+		at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1125)
+		at com.mchange.v2.resourcepool.BasicResourcePool.access$700(BasicResourcePool.java:44)
+		at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1870)
+		at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:696)
+	Caused by: com.mysql.cj.exceptions.UnableToConnectException: Public Key Retrieval is not allowed
+		at sun.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+		at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+		at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+		at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+		at com.mysql.cj.protocol.a.authentication.CachingSha2PasswordPlugin.nextAuthenticationStep(CachingSha2PasswordPlugin.java:130)
+		at com.mysql.cj.protocol.a.authentication.CachingSha2PasswordPlugin.nextAuthenticationStep(CachingSha2PasswordPlugin.java:49)
+		at com.mysql.cj.protocol.a.NativeAuthenticationProvider.proceedHandshakeWithPluggableAuthentication(NativeAuthenticationProvider.java:447)
+		at com.mysql.cj.protocol.a.NativeAuthenticationProvider.connect(NativeAuthenticationProvider.java:212)
+		at com.mysql.cj.protocol.a.NativeProtocol.connect(NativeProtocol.java:1433)
+		at com.mysql.cj.NativeSession.connect(NativeSession.java:133)
+		at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:948)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:818)
+		... 12 more
+19-Nov-2024 13:55:10.525 WARNING [C3P0PooledConnectionPoolManager[identityToken->2xfge0b7ivrks91a8zpx|68ad99fe]-HelperThread-#1] com.mchange.v2.resourcepool.BasicResourcePool. com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@5bc6964b -- Acquisition Attempt Failed!!! Clearing pending acquires. While trying to acquire a needed new resource, we failed to succeed more than the maximum number of allowed acquisition attempts (30). Last acquisition attempt exception: 
+	java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:110)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:828)
+		at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:448)
+		at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+		at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+		at com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:175)
+		at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:220)
+		at com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:206)
+		at com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:203)
+		at com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1138)
+		at com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1125)
+		at com.mchange.v2.resourcepool.BasicResourcePool.access$700(BasicResourcePool.java:44)
+		at com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1870)
+		at com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:696)
+	Caused by: com.mysql.cj.exceptions.UnableToConnectException: Public Key Retrieval is not allowed
+		at sun.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+		at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+		at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+		at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:85)
+		at com.mysql.cj.protocol.a.authentication.CachingSha2PasswordPlugin.nextAuthenticationStep(CachingSha2PasswordPlugin.java:130)
+		at com.mysql.cj.protocol.a.authentication.CachingSha2PasswordPlugin.nextAuthenticationStep(CachingSha2PasswordPlugin.java:49)
+		at com.mysql.cj.protocol.a.NativeAuthenticationProvider.proceedHandshakeWithPluggableAuthentication(NativeAuthenticationProvider.java:447)
+		at com.mysql.cj.protocol.a.NativeAuthenticationProvider.connect(NativeAuthenticationProvider.java:212)
+		at com.mysql.cj.protocol.a.NativeProtocol.connect(NativeProtocol.java:1433)
+		at com.mysql.cj.NativeSession.connect(NativeSession.java:133)
+		at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:948)
+		at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:818)
+		... 12 more
+19-Nov-2024 13:55:10.526 WARNING [C3P0PooledConnectionPoolManager[identityToken->2xfge0b7ivrks91a8zpx|68ad99fe]-HelperThread-#2] com.mchange.v2.resourcepool.BasicResourcePool. Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@78b236a0 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests.
+19-Nov-2024 13:55:10.526 WARNING [C3P0PooledConnectionPoolManager[identityToken->2xfge0b7ivrks91a8zpx|68ad99fe]-HelperThread-#0] com.mchange.v2.resourcepool.BasicResourcePool. Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@78b236a0 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests.
+19-Nov-2024 13:55:10.526 WARNING [C3P0PooledConnectionPoolManager[identityToken->2xfge0b7ivrks91a8zpx|68ad99fe]-HelperThread-#1] com.mchange.v2.resourcepool.BasicResourcePool. Having failed to acquire a resource, com.mchange.v2.resourcepool.BasicResourcePool@78b236a0 is interrupting all Threads waiting on a resource to check out. Will try again in response to new client requests.
+19-Nov-2024 13:55:10.526 WARN [http-nio-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 0, SQLState: null
+19-Nov-2024 13:55:10.527 WARN [http-nio-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions SQL Error: 0, SQLState: null
+19-Nov-2024 13:55:10.527 ERROR [http-nio-8080-exec-7] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Connections could not be acquired from the underlying database!
+19-Nov-2024 13:55:10.528 ERROR [http-nio-8080-exec-4] org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions Connections could not be acquired from the underlying database!
+19-Nov-2024 13:56:22.571 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/estimator]
+19-Nov-2024 13:56:22.634 WARNING [Catalina-utility-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [estimator] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+19-Nov-2024 13:56:22.635 WARNING [Catalina-utility-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [estimator] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:750)
+19-Nov-2024 13:56:27.438 INFO [mysql-cj-abandoned-connection-cleanup] org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load []. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+		at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1359)
+		at org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:985)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:123)
+		at com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:90)
+		at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+		at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+		at java.lang.Thread.run(Thread.java:750)
+19-Nov-2024 13:56:39.155 WARNING [main] org.apache.catalina.core.StandardServer.await Invalid shutdown command [] received
+19-Nov-2024 13:56:51.309 WARNING [main] org.apache.catalina.core.StandardServer.await Invalid shutdown command [] received
+19-Nov-2024 13:57:25.571 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+19-Nov-2024 13:57:25.572 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+19-Nov-2024 13:57:26.056 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+19-Nov-2024 13:57:26.064 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+19-Nov-2024 13:57:26.069 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

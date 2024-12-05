@@ -1,0 +1,8 @@
+FROM mysql:8.0
+
+ENV MYSQL_ROOT_PASSWORD=bestuser
+ENV MYSQL_DATABASE=estimator
+ENV MYSQL_USER=bestuser
+ENV MYSQL_PASSWORD=bestuser
+
+COPY dump.sql /docker-entrypoint-initdb.d/dump.sql
